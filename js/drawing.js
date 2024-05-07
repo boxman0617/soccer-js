@@ -1,5 +1,4 @@
 import { GameEngine } from "./game-engine.js";
-import { Vector } from "./vector.js";
 
 export class Drawing {
   static line(color, startVector, endVector) {

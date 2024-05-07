@@ -3,7 +3,6 @@ import { GameEngine } from "./game-engine.js";
 import { Vector } from "./vector.js";
 import { Drawing } from "./drawing.js";
 import { calculateAngle } from "./utils.js";
-import debugEngine from "./debug-engine.js";
 
 const GoalKeeperModes = {
   WATCHING_FAR: "WATCHING_FAR",
